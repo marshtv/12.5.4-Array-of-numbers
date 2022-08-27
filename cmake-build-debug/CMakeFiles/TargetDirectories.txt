@@ -1,0 +1,3 @@
+F:/__C++/Skillbox/12/12.5.4 Array of numbers/cmake-build-debug/CMakeFiles/12_5_4_Array_of_numbers.dir
+F:/__C++/Skillbox/12/12.5.4 Array of numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/12/12.5.4 Array of numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
